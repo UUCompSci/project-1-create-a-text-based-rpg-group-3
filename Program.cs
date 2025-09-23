@@ -51,6 +51,7 @@ class Program
         }
     }
 
+
     static void ExamineBody()
     {
         Console.WriteLine("\nYou look down at your shimmering, unstable form.");
@@ -69,7 +70,10 @@ class Program
             Console.WriteLine("\nA shockwave rattles the room! Glass shatters further, alarms faintly beep.");
         else
             Console.WriteLine("\nYou flicker uncertainly, doing nothing.");
+        PostExamineBody();
     }
+
+
 
     static void SearchLab()
     {
@@ -106,10 +110,51 @@ class Program
         if (input == "1")
             Console.WriteLine("\nThe door buckles under your power! Beyond it lies a dark hallway…");
         else if (input == "2")
-            Console.WriteLine("\nBehind a stack of crates, you find a vent—small, but unstable like you.");
+            Console.WriteLine("\nBehind a stack of crates, you find a vent — small, but unstable like you.");
         else
             Console.WriteLine("\nYou wait… the silence of the lab presses in.");
     }
-}
 
-// Each room has arng value for how easy it is too escape the room.
+
+    static void PostExamineBody()
+    {
+        Console.WriteLine("What do you do?");
+        Console.WriteLine("1. Search the laboratory.");
+        Console.WriteLine("2. Attempt to escape.\n");
+
+        Console.Write("Enter choice (1-3): ");
+        string input = Console.ReadLine() ?? string.Empty;
+
+        switch (input)
+        {
+            case "1":
+                SearchLab();
+                break;
+            case "2":
+                EscapeAttempt();
+                break;
+            default:
+                Console.WriteLine("\nYour unstable mind wavers, unable to decide…");
+                break;
+        }
+    }
+
+
+    static void EscapeSuccess()
+    {
+        Console.WriteLine("...");
+        Console.WriteLine("You manage to escape from the laboratory.");
+        Console.WriteLine("Your surroundings look even stranger than before - what planet is this?");
+        Console.WriteLine("Your newfound life and freedom fill you with excitement");
+        Console.WriteLine("It is time to explore...");
+        Console.WriteLine("");
+        Console.ForegroundColor = ConsoleColor.Yellow;
+        Console.WriteLine("You Win!");
+    }
+    static void EscapeFailure()
+    {
+        Console.WriteLine("You attempt to escape, but fail");
+        Console.WriteLine("You return to the lab, unsuccessful");
+        //hallway loop
+    }
+}
