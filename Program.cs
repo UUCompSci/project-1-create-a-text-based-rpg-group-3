@@ -111,3 +111,5 @@ class Program
             Console.WriteLine("\nYou wait… the silence of the lab presses in.");
     }
 }
+
+// Each room has arng value for how easy it is too escape the room.
