@@ -1,0 +1,15 @@
+C:\Users\justj\OneDrive\Desktop\project-1-create-a-text-based-rpg-group-3\TextRPG\bin\Debug\net9.0\TextRPG.exe
+C:\Users\justj\OneDrive\Desktop\project-1-create-a-text-based-rpg-group-3\TextRPG\bin\Debug\net9.0\TextRPG.deps.json
+C:\Users\justj\OneDrive\Desktop\project-1-create-a-text-based-rpg-group-3\TextRPG\bin\Debug\net9.0\TextRPG.runtimeconfig.json
+C:\Users\justj\OneDrive\Desktop\project-1-create-a-text-based-rpg-group-3\TextRPG\bin\Debug\net9.0\TextRPG.dll
+C:\Users\justj\OneDrive\Desktop\project-1-create-a-text-based-rpg-group-3\TextRPG\bin\Debug\net9.0\TextRPG.pdb
+C:\Users\justj\OneDrive\Desktop\project-1-create-a-text-based-rpg-group-3\TextRPG\obj\Debug\net9.0\TextRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justj\OneDrive\Desktop\project-1-create-a-text-based-rpg-group-3\TextRPG\obj\Debug\net9.0\TextRPG.AssemblyInfoInputs.cache
+C:\Users\justj\OneDrive\Desktop\project-1-create-a-text-based-rpg-group-3\TextRPG\obj\Debug\net9.0\TextRPG.AssemblyInfo.cs
+C:\Users\justj\OneDrive\Desktop\project-1-create-a-text-based-rpg-group-3\TextRPG\obj\Debug\net9.0\TextRPG.csproj.CoreCompileInputs.cache
+C:\Users\justj\OneDrive\Desktop\project-1-create-a-text-based-rpg-group-3\TextRPG\obj\Debug\net9.0\TextRPG.sourcelink.json
+C:\Users\justj\OneDrive\Desktop\project-1-create-a-text-based-rpg-group-3\TextRPG\obj\Debug\net9.0\TextRPG.dll
+C:\Users\justj\OneDrive\Desktop\project-1-create-a-text-based-rpg-group-3\TextRPG\obj\Debug\net9.0\refint\TextRPG.dll
+C:\Users\justj\OneDrive\Desktop\project-1-create-a-text-based-rpg-group-3\TextRPG\obj\Debug\net9.0\TextRPG.pdb
+C:\Users\justj\OneDrive\Desktop\project-1-create-a-text-based-rpg-group-3\TextRPG\obj\Debug\net9.0\TextRPG.genruntimeconfig.cache
+C:\Users\justj\OneDrive\Desktop\project-1-create-a-text-based-rpg-group-3\TextRPG\obj\Debug\net9.0\ref\TextRPG.dll
