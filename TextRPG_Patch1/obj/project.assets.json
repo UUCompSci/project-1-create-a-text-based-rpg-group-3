@@ -8,24 +8,31 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Mkcoo\\.nuget\\packages\\": {}
+    "C:\\Users\\justj\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mkcoo\\Downloads\\project-1-create-a-text-based-rpg-group-3-main\\project-1-create-a-text-based-rpg-group-3-main\\TextRPG\\TextRPG.csproj",
+      "projectUniqueName": "C:\\Users\\justj\\OneDrive\\Desktop\\project-1-create-a-text-based-rpg-group-3\\TextRPG_Patch1\\TextRPG.csproj",
       "projectName": "TextRPG",
-      "projectPath": "C:\\Users\\Mkcoo\\Downloads\\project-1-create-a-text-based-rpg-group-3-main\\project-1-create-a-text-based-rpg-group-3-main\\TextRPG\\TextRPG.csproj",
-      "packagesPath": "C:\\Users\\Mkcoo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mkcoo\\Downloads\\project-1-create-a-text-based-rpg-group-3-main\\project-1-create-a-text-based-rpg-group-3-main\\TextRPG\\obj\\",
+      "projectPath": "C:\\Users\\justj\\OneDrive\\Desktop\\project-1-create-a-text-based-rpg-group-3\\TextRPG_Patch1\\TextRPG.csproj",
+      "packagesPath": "C:\\Users\\justj\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\justj\\OneDrive\\Desktop\\project-1-create-a-text-based-rpg-group-3\\TextRPG_Patch1\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Mkcoo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\justj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

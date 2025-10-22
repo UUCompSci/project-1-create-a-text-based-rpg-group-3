@@ -9,7 +9,7 @@ class Program
   const byte LAB = 1;
   const byte HALLWAY = 2; //(1-20)
   const byte HALLWAY2 = 3; //(20-40)
-  const byte CONTAINMENT = 4; // anti matter // encounter an alien // (40-50)
+  const byte CONTAINMENT = 4; // anti xmatter // encounter an alien // (40-50)
   const byte NORTHSEC = 5; // anti matter (50-60)
   const byte CONFERENCE = 6; // anti matter (60-70)
   const byte RADIATION = 7; // 5 damage (70-80)
